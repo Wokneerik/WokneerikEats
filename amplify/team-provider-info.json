@@ -1,0 +1,20 @@
+{
+  "staging": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-wokneerikseats-staging-193238-authRole",
+      "UnauthRoleArn": "arn:aws:iam::445711171773:role/amplify-wokneerikseats-staging-193238-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::445711171773:role/amplify-wokneerikseats-staging-193238-authRole",
+      "Region": "us-east-1",
+      "DeploymentBucketName": "amplify-wokneerikseats-staging-193238-deployment",
+      "UnauthRoleName": "amplify-wokneerikseats-staging-193238-unauthRole",
+      "StackName": "amplify-wokneerikseats-staging-193238",
+      "StackId": "arn:aws:cloudformation:us-east-1:445711171773:stack/amplify-wokneerikseats-staging-193238/226d9cf0-ccd6-11ed-97a9-122ae4c4792b",
+      "AmplifyAppId": "d1rw0go7n77euj"
+    },
+    "categories": {
+      "auth": {
+        "WokneeriksEats": {}
+      }
+    }
+  }
+}
